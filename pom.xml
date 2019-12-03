@@ -7,6 +7,10 @@
     <groupId>edu.xalead</groupId>
     <artifactId>JD</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>JD-register</module>
+        <module>JD-gateway</module>
+    </modules>
     <packaging>pom</packaging>
 
     <parent>
