@@ -8,6 +8,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="JD-gateway" />
+        <module name="JD-item-interface" />
+        <module name="JD-item-service" />
         <module name="JD-register" />
       </profile>
     </annotationProcessing>

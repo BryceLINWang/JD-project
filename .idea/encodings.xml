@@ -3,6 +3,9 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/JD-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JD-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JD-item/JD-item-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JD-item/JD-item-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/JD-register" charset="UTF-8" />
   </component>
 </project>

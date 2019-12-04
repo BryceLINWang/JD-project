@@ -10,6 +10,7 @@
     <modules>
         <module>JD-register</module>
         <module>JD-gateway</module>
+        <module>JD-item</module>
     </modules>
     <packaging>pom</packaging>
 
