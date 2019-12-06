@@ -11,6 +11,7 @@
         <module>JD-register</module>
         <module>JD-gateway</module>
         <module>JD-item</module>
+        <module>JD-common</module>
     </modules>
     <packaging>pom</packaging>
 
